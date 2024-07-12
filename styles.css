@@ -1,0 +1,16 @@
+* {
+    background-color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+}
+
+body div {
+    align-items: center;
+    margin-left: 550px;
+}
+
+#img {
+    margin-left: 500px;
+}
